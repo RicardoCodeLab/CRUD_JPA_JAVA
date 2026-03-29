@@ -13,6 +13,9 @@ WAMP proporciona la infraestructura local necesaria para que el sistema funcione
 *Gestión de Base de Datos: phpMyAdmin*
 Es la herramienta gráfica basada en web que permite administrar la base de datos MySQL de forma sencilla.
 
-Evidencia del Sistema
+
 *EVIDENCIA DE LA INTERFAZ phpMyAdmin*
 <img width="1571" height="620" alt="Image" src="https://github.com/user-attachments/assets/5e18b799-d3dd-4963-9303-bdbd533c7678" />
+
+*EVIDENCIA DE LA BUSQUEDA REALIZADA EN CONSOLA*
+<img width="1286" height="694" alt="Image" src="https://github.com/user-attachments/assets/8757b3c0-e339-44ae-95cc-91286e50e4e4" />
