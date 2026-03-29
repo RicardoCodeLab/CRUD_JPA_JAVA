@@ -15,5 +15,5 @@ Es la herramienta gráfica basada en web que permite administrar la base de dato
 
 Evidencia del Sistema
 
-![Imagen phpMyAdmin](https://github.com/RicardoCodeLab/CRUD_JPA_JAVA/raw/master/src/common/Imágenes Mi Primer CRUD/phpMyAdmin- Mi Primer CRUD.png)
+![Imagen phpMyAdmin](https://github.dev/RicardoCodeLab/CRUD_JPA_JAVA/blob/main/Im%C3%A1genes%20Mi%20Primer%20CRUD/phpMyAdmin-%20Mi%20Primer%20CRUD.png)
 Imágenes Mi Primer CRUD/phpMyAdmin- Mi Primer CRUD.png
