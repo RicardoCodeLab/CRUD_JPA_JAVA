@@ -14,6 +14,5 @@ WAMP proporciona la infraestructura local necesaria para que el sistema funcione
 Es la herramienta gráfica basada en web que permite administrar la base de datos MySQL de forma sencilla.
 
 Evidencia del Sistema
-
-![Imagen phpMyAdmin](https://github.com/RicardoCodeLab/CRUD_JPA_JAVA/blob/main/Im%C3%A1genes%20Mi%20Primer%20CRUD/phpMyAdmin-%20Mi%20Primer%20CRUD.png"phpMyAdmin")
-Imágenes Mi Primer CRUD/phpMyAdmin- Mi Primer CRUD.png
+*EVIDENCIA DE LA INTERFAZ phpMyAdmin*
+<img width="1571" height="620" alt="Image" src="https://github.com/user-attachments/assets/5e18b799-d3dd-4963-9303-bdbd533c7678" />
